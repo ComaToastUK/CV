@@ -2,7 +2,7 @@
 #### www.github.com/comatoastuk
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](http://www.linkedin.com/in/jamesstubbs1)
 
-A junior software developer with full-stack open source experience. Having worked on collaborative projects with other junior developers at Makers Academy, I've built a well rounded knowledge enabling me to contribute effectively as part of a multi disciplinary team. Having worked with developers from a recruitment standpoint for the past few years I have become passionate about the industry and am now looking to secure my first position as a junior developer making best use of my experience with Ruby & Javascript, in an Agile environment.
+A junior software developer with full-stack open source experience. Having worked on collaborative projects with other junior developers at Makers Academy, I've built a well rounded knowledge enabling me to contribute effectively as part of a multi disciplinary team. Having worked with developers from a recruitment standpoint for the past few years I have become passionate about the industry and am now looking to secure my first position as a junior developer making best use of my foundation in Agile development. I am currently open to working with all technologies though currently I'm strongest working with Ruby and Javascript. Please feel free to look at any code examples on my Github (recent is better) and get in contact for a chat!
 
 ## Skills
 
@@ -12,13 +12,12 @@ Having worked in the recruitment industry for the past 7 years I have gained the
 
 #### Ruby
 
-I've been using Ruby to develop web applications since June 2017 and have a well rounded understanding. Starting out with a rudimentary knowledge I increased my ability through coding challenges. Throughout the course I aim to continue to advance my ability with Ruby at pace to a highly competent level.
+I've been using Ruby to develop web applications since June 2017 and have a well rounded understanding. Starting out with a rudimentary knowledge I increased my ability through coding challenges. Since I joined Makers Academy I have become very confident with Ruby and am very competent in the full stack development of web applications using Ruby coupled with Sinatra or Rails.
 
 
 #### Javascript
 
-I started working with Javascript around 5 years ago and have taken a number of online courses to broaden my understanding. Although still at a junior level, I am confident with the fundamentals and hope to continue to improve in my next role.
-
+I started working with Javascript around 5 years ago and have taken a number of online courses to broaden my understanding. Although still at a junior level, I am confident with the fundamentals and hope to continue to improve in my next role. Whilst at Makers Academy I have built a number of projects using different Javascript design patterns and always try to stay up to date with the latest frameworks. I've worked with jQuery, React and vanilla javascript but am always open to learning new technologies.
 
 ## Education
 
@@ -27,10 +26,12 @@ I started working with Javascript around 5 years ago and have taken a number of 
 A highly competitive intensive software development immersive course.
 - Open source development
 - Object Oriented Programming (OOP)
-- Agile/XP
+- Agile Methodologies / XP Values
 - Test Driven Development (TDD)
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby: Rails 5, Sinatra
+- JavaScript: React, jQuery
+- Testing: RSpec, Jasmine, Mocha, Zombie
+- Databases: MongoDB, PostgreSQL, SQLite3, MySQL
 
 #### De Montfort University (2006 to 2010)
 - Media Studies & Journalism: BA (Joint Hons) 2.2
@@ -46,4 +47,5 @@ A highly competitive intensive software development immersive course.
 
 ## Interests
 - Rock climbing: I climb regularly at a number of centres around the UK as well as outdoor and bouldering sessions.
+- Snowboarding: Try to spend a week or two on the snow each year
 - Gaming: I play a number of online games (seriously you won't beat me :)
